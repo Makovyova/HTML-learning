@@ -1,0 +1,13 @@
+<table>
+  <thead>
+    <tr>
+      <th> Hello, World</th>
+      <th> Hello, World</th>
+      <th> Hello, World</th>
+    </tr>
+  </thead>
+  <tr>
+    <td colspan="2"> </td>
+    <td> </td>
+  </tr>
+</table>
