@@ -1,0 +1,11 @@
+<form action="/people">
+  <label>
+    <input type="radio" name="gender" value="yes">
+    Hello, World
+  </label>
+  <br>
+  <label>
+    <input type="radio" name="gender" value="no">
+    Hello, World!
+  </label>
+</form>
