@@ -1,0 +1,7 @@
+<form action="/people">
+  <select multiple>
+    <option>A</option>
+    <option>B</option>
+    <option>C</option>
+  </select>
+</form>
