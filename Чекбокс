@@ -1,0 +1,11 @@
+<form action="/people">
+  <label>
+    <input type="checkbox" name="languages" value="HTML">
+    Hello, World
+  </label>
+  <br>
+  <label>
+    <input type="checkbox" name="languages" value="HTML">
+    Hello, World!
+  </label>
+</form>
