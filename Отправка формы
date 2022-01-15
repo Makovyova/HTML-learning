@@ -1,0 +1,12 @@
+<form action="/people">
+  <label>
+    <input type="text">
+    <input type="text">
+  </label>
+  <select multiple>
+          <option>A</option>
+          <option>B</option>
+          <option>C</option>
+      </select>
+  <button>Отправить</button>
+</form>
