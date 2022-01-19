@@ -1,0 +1,4 @@
+<section itemscope itemtype="http://schema.org/Organization">
+  <h1 itemprop="name"> Hello, World </h1>
+  <p>Email: <span itemprop="email">hello@world.test</span></p>
+</section>
