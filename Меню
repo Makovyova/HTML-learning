@@ -1,0 +1,9 @@
+<header>
+  <img src="/image.png" alt="картинка">
+  <nav>
+    <ul>
+      <li><a href="/">Hello</a></li>
+      <li><a href="/">World</a></li>
+    </ul>
+  </nav>
+</header>
