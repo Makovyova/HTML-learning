@@ -1,0 +1,13 @@
+<header>
+  <img src="/logo.png" alt="Логотип">
+  <nav>
+    <ul>
+      <li><a href="/"> Hello</a></li>
+      <li><a href="/"> World</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  nothin'
+</main>
